@@ -1,4 +1,5 @@
-# AddressBloc: A simple Address Book that runs from the Terminal
+# AddressBloc
+## A simple address book that runs from the Terminal
 
 ![](/assets/address_bloc_main_menu.png)
 
